@@ -1,4 +1,4 @@
-package analise.animal;
+package analise_orientada_objeto.animal;
 
 
 public class Gato extends Animal {

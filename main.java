@@ -1,5 +1,5 @@
 
-import analise.animal.*;
+import analise_orientada_objeto.animal.*;
 
 class Entry {
     public static void main(String args[]) {

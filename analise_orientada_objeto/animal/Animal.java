@@ -1,5 +1,5 @@
 
-package analise.animal;
+package analise_orientada_objeto.animal;
 
 public abstract class Animal {
     public String nome;
