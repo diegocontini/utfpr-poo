@@ -1,4 +1,4 @@
-package programacao_orientada_objeto.pratica_3_1;
+package pratica_3_1;
 
 public class MaiorValor {
     ///Para enviar para o Moodle, necessário copiar somente o método abaixo. Não a classe inteira.
