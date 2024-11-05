@@ -26,7 +26,13 @@ public class Aluno {
         genero = pGenero;
         ra = pRa;
     }
+    public Aluno(String pNome,  int pIdade, char pGenero) {
+        nome = pNome;
+        idade = pIdade;
+        genero = pGenero;
+        
+    }
     public void print(){
-        System.out.println(nome + " - " + idade + " - " + genero + " - " + ra);
+        System.out.println(nome + " - " + idade + " - " + genero);
     }
 }
